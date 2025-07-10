@@ -14,6 +14,10 @@ This project is fully Dockerized for deployment and will soon include a **Stream
 - 📦 **Frontend Ready**: Can be integrated with Streamlit or any web frontend (coming soon).
 
 
-🔗 [Download sport-claassifier(.pth)](https://huggingface.co/your-username/sport-classifier-model/blob/main/model.pth)
+🔗 [Download sport-claassifier(.pth)](https://huggingface.co/affan5543/sports-classfier-project/blob/main/sports_claassifier.pth)
+
+🔗 [Download label_encoder(.pkl)](https://huggingface.co/affan5543/sports-classfier-project/blob/main/label_encoder.pkl)
+ 
+ 
 
 Place this file in the `model/` directory before running the app.
