@@ -12,3 +12,8 @@ This project is fully Dockerized for deployment and will soon include a **Stream
 - 🖼️ **Image Upload Support**: Accepts image files directly via a REST endpoint.
 - 🧪 **Simple API Interface**: One `/predict` endpoint for real-time predictions.
 - 📦 **Frontend Ready**: Can be integrated with Streamlit or any web frontend (coming soon).
+
+
+🔗 [Download sport-claassifier(.pth)](https://huggingface.co/your-username/sport-classifier-model/blob/main/model.pth)
+
+Place this file in the `model/` directory before running the app.
